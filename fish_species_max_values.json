@@ -1,0 +1,57 @@
+{
+  "Torsk": {
+    "Fangstverdi": {
+      "max": 7733494.9,
+      "min": -256.66
+    },
+    "Bruttovekt": {
+      "max": 187021,
+      "min": 0
+    },
+    "eng_species_name": "Cod"
+  },
+  "Sei": {
+    "Fangstverdi": {
+      "max": 2238846.28,
+      "min": 0
+    },
+    "Bruttovekt": {
+      "max": 194164.91,
+      "min": 0
+    },
+    "eng_species_name": "Saithe"
+  },
+  "Makrell": {
+    "Fangstverdi": {
+      "max": 19695642,
+      "min": 0
+    },
+    "Bruttovekt": {
+      "max": 2098541,
+      "min": 0.4
+    },
+    "eng_species_name": "Mackerel"
+  },
+  "Pigghå": {
+    "Fangstverdi": {
+      "max": 8117.16,
+      "min": 0
+    },
+    "Bruttovekt": {
+      "max": 1038,
+      "min": 0.5
+    },
+    "eng_species_name": "Spiny Dogfish"
+  },
+  "Blåsteinbit": {
+    "Fangstverdi": {
+      "max": 74437.27,
+      "min": 52.3
+    },
+    "Bruttovekt": {
+      "max": 13747,
+      "min": 18
+    },
+    "eng_species_name": "Northern Wolf Fish"
+  }
+}
